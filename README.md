@@ -10,9 +10,15 @@ It doesnt work on mac...  something to do with regex?  and on some linux install
 BE CAREFUL WITH THIS!  This is a hackers wet dream come true.  This basically gives access to run code on a remote host.
 
 webserver.bash:  the thing that runs the gui
+
 dynamic.bash: a bash script that autogenerates some html
+
 frames.html: a simple html iframes example
+
 plain.html: the hello world of html
+
 guiproc.bash: simple bash script that takes web form attributes and does something with them
+
 gui.html: a web form example
+
 main.html: this is the web page that opens as the root document
